@@ -13,7 +13,7 @@ Scripts/
 │   └── ActiveManager.cs       # 페이지 전환 제어
 
 
-├── Character/                 # 캐릭터 AI 관련 스크립트 (간략화)
+├── Character/                 # 캐릭터 AI 관련 스크립트 ***(간략화)***
 
 │   ├── CustomerManager.cs     # 손님 생성, 상태, 이동 제어
 
