@@ -12,20 +12,32 @@ Scripts/
 
 │   └── ActiveManager.cs       # 페이지 전환 제어
 
+
 ├── Character/                 # 캐릭터 AI 관련 스크립트
+
 │   ├── CustomerManager.cs     # 손님 생성, 상태, 이동 제어
+
 │   ├── CustomerPreScript.cs   # 손님 개별 행동 처리 (입장~퇴장)
+
 │   └── HamsterPreScript.cs    # 서빙 햄스터 이동 및 음료 전달 로직
 
+
 ├── Merge/                     # 병합 및 베이커리 생성 시스템
+
 │   └── MergeManager.cs        # 반죽 생성, 슬롯 저장, 병합 결과 생성
 
+
 ├── Kitchen/                   # 오븐, 요리 관련 로직
+
 │   └── OvenPreScript.cs       # 베이커리 아이템 굽기 처리
 
+
 ├── Quest/                     # 퀘스트 진행 및 데이터 관리
+
 │   ├── QuestManager.cs        # 퀘스트 진행 조건, 보상 처리
+
 │   ├── QuestDatabase.cs       # 퀘스트 데이터베이스 (ScriptableObject)
+
 │   └── QuestData.cs           # 퀘스트 정보 구조 정의 (ScriptableObject)
 
 
