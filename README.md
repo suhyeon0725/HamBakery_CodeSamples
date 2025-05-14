@@ -7,6 +7,7 @@
 # 폴더 구조
 
 Scripts/
+
 ├── UI/                        # 화면 전환 관련 스크립트
 │   └── ActiveManager.cs       # 페이지 전환 제어
 
